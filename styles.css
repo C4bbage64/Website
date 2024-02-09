@@ -36,6 +36,8 @@ nav ul li a {
 
 section {
     padding: 20px;
+    text-align: justify;
+    text-align: center; 
 }
 
 footer {
@@ -65,3 +67,4 @@ footer {
 .project a:hover {
     background-color: #555;
 }
+
